@@ -1,0 +1,15 @@
+current directory: /Users/yasmineezequiel/Documents/2020_repos/spina_example/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/Users/yasmineezequiel/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/yasmineezequiel/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200507-56004-1fw8bb4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yasmineezequiel/Documents/2020_repos/spina_example/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/yasmineezequiel/Documents/2020_repos/spina_example/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/yasmineezequiel/Documents/2020_repos/spina_example/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20200507-56004-r65mwk
